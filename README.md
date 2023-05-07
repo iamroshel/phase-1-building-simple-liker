@@ -1,5 +1,5 @@
-# Building the Simple Liker App
-
+# Building the Simple Liker App c
+ 
 ## Learning Goals
 
 * Set up an event listener to respond to a user action
